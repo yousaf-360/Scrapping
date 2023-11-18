@@ -1,0 +1,44 @@
+ID,Name,Email,Department,Extension,Designation,Highest Education,image URL,hec_approved
+1,Dr. Hafeez Ur Rehman,   hafeez.urrehman@nu.edu.pk ,Computer Science,107,Associate Professor & HoD,"Ph.D. in Computer and Control Engineering, Politecnico Di Torino, Italy (2014).",http://pwr.nu.edu.pk/images/faculty/dr_hafeez_2.jpg,True
+2,Dr. Omar Usman Khan,   omar.khan@nu.edu.pk ,Computer Science,103,Associate Professor & Director ,"Ph.D. (Computer And Control Engineering), Politecnico Di Torino, Italy (2013)",http://pwr.nu.edu.pk/images/faculty/Dr_Omer_Usman2.jpg,True
+3,Dr. Nouman Azam,   nouman.azam@nu.edu.pk ,Computer Science,134,Associate Professor,"Ph.D. (CS), University of Regina, Canada (2014)",http://pwr.nu.edu.pk/images/faculty/Dr_noman_azam_2.jpg,True
+4,Dr. Mohammad Nauman,   mohammad.nauman@nu.edu.pk ,Computer Science,126,Associate Professor,"PhD(IT), University of Kuala Lumpur, Malaysia (2014)",http://pwr.nu.edu.pk/images/faculty/Dr.noman2.jpg,True
+5,Dr. Taimoor Khan,   taimoor.khan@nu.edu.pk ,Computer Science,127,Assistant Professor,"Ph.D. (Computer Science), Bahria University Islamabad Campus, Pakistan (2018)",http://pwr.nu.edu.pk/images/faculty/Dr_M_Taimoor_Khan2.JPG,True
+6,Dr. Bahar Ali,   bahar.ali@nu.edu.pk ,Computer Science,122,Assistant Professor,"PhD, Three-way Clustering (Machine Learning), National University of Computer and Emerging Sciences, Peshawar,2018 - 2021.",http://pwr.nu.edu.pk/images/faculty/dr_baharali.png,True
+7,Dr. Musadaq Mansoor,   musadaq.mansoor@nu.edu.pk ,Computer Science,130,Assistant Professor,"PhD Computer Science (Machine Learning / Bioinformatics), National University of Computer and Emerging Sciences, Peshawar, 2017 - 2022.",http://pwr.nu.edu.pk/images/faculty/dr_musadaq.png,False
+8,Dr. Muhammad Amin,   muhammad.amin@nu.edu.pk ,Computer Science,146,Assistant Professor,"PhD (Computer Science), IM Sciences (2022)",http://pwr.nu.edu.pk/images/faculty/amin2.jpg,False
+9,Fazl-e-Basit,   fazl.basit@nu.edu.pk ,Computer Science,110,Assistant Professor,"M.S(Computer Science), NUST, Rawalpindi, Pakistan (2006)",http://pwr.nu.edu.pk/images/faculty/Fazl-e-Basit2.JPG,False
+10,Shoaib Muhammad Khan,   shoaib.khan@nu.edu.pk ,Computer Science,144,Assistant Professor,"M.S(Computer Science), NUCES, Islamabad, Pakistan (2006)",http://pwr.nu.edu.pk/images/faculty/shoaib_2.jpg,False
+11,Shakir Ullah Shah,   shakir.ullah@nu.edu.pk ,Computer Science,108,Assistant Professor,"M.S(Computer Science), Foundation University, Islamabad, Pakistan (2009)",http://pwr.nu.edu.pk/images/faculty/Shakir2.jpg,False
+12,Waqas Ali,   waqas.ali@nu.edu.pk ,Computer Science,144,Lecturer,"MS(Computer Science), University of Peshawar, Pakistan (2017)",http://pwr.nu.edu.pk/images/faculty/Waqas_Ali2.JPG,False
+13,Zeshan Khan,   zeshan.khan@nu.edu.pk ,Computer Science,145,Lecturer,"BS (CS),2012, Muhammad Ali Jinnah University, Islamabad Campus, Pakistan",http://pwr.nu.edu.pk/images/faculty/ze.jpg,False
+14,Ms. Sara Rehmat,   sara.rehmat@nu.edu.pk ,Computer Science,122,Lecturer,#,http://pwr.nu.edu.pk/images/faculty/Ms_Sara_Rehmat2.JPG,False
+15,Maryam Omar ,   maryam.omar@nu.edu.pk ,Computer Science,122,Lecturer,"MS (Computer Science), National University of Computer & Emerging Sciences (NUCES), Peshawar. (2019)",http://pwr.nu.edu.pk/images/faculty/mar.jpg,False
+16,Salma Kulsoom,   Salma.kulsoom@nu.edu.pk ,Computer Science,147,Lecturer,"MS Computer Science, SEECS NUST",http://pwr.nu.edu.pk/images/faculty/salma.jpg,False
+43,Ms. Mashal Khan,   mashal.khan@nu.edu.pk ,Computer Science,147,Lecturer,"MS Information Security  2020 SEECS NUST Islamabad",http://pwr.nu.edu.pk/images/faculty/Mis_MashalKhan2.jpg,False
+57,Usama Musharaf,   usama.musharaf@nu.edu.pk ,Computer Science,145,Lecturer,"MS(CS), CECOS University of IT & Emerging Sciences Peshawar.",http://pwr.nu.edu.pk/images/faculty/usama.jpg,False
+61,Khuram Shahzad,   khuram.shahzad@nu.edu.pk ,Computer Science,139,Instructor,"In progress -  MS in Data Science at FAST- National University of Computer and Emerging Sciences. (2021- To date).  ",http://pwr.nu.edu.pk/images/faculty/khura.jpg,False
+62,Muhammad Usman,   usman.rafiq@nu.edu.pk ,Computer Science,139,Instructor,"Doing MS in Data Science at FAST- National University of Computer and Emerging Sciences. (2021- To date).  ",http://pwr.nu.edu.pk/images/faculty/usm2.jpg,False
+83,Hurmat Hidayat,   hurmat.hidayat@nu.edu.pk ,Computer Science,140,Instructor,"MS (Computer Science), UET Peshawar - (In progress)",http://pwr.nu.edu.pk/images/faculty/hurmat.png,False
+84,Fariba Laiq,   fariba.laiq@nu.edu.pk ,Computer Science,139,Instructor,"BS Computer Science, IMSciences Peshawar.",http://pwr.nu.edu.pk/images/faculty/fareeba.jpg,False
+78,Dr. M Usman Abbasi,   usman.abbasi@nu.edu.pk ,Electrical Engineering,143,Assistant Professor & HoD,"PhD (Electrical Engineering), National University of Computer and Emerging Sciences - FAST, Pakistan (2021)",http://pwr.nu.edu.pk/images/faculty/usman_abbasi_2.jpg,True
+77,Dr. Asif Iqbal,   asif.iqbal@nu.edu.pk ,Electrical Engineering,130,Assistant Professor,#,http://pwr.nu.edu.pk/images/faculty/dr_asif_iqbal2.JPG,True
+76,Dr. Suleman Mir,   suleman.mir@nu.edu.pk ,Electrical Engineering,136,Assistant Professor,"PhD(Electrical Engineering),National University of Computer and Emerging Science, Peshawar Campus, Pakistan",http://pwr.nu.edu.pk/images/faculty/Suleman_Mir2.JPG,False
+75,Mr. M Asif Khan,   m.asif@nu.edu.pk ,Electrical Engineering,116,Assistant Professor,"M.Sc(Engineering), University of Leeds, United Kingdom (2006)",http://pwr.nu.edu.pk/images/faculty/Muhammad_Asif_Khan2.JPG,False
+74,Mr. Rahat Ehsan,   rahat.ehsan@nu.edu.pk ,Electrical Engineering,108,Assistant Professor,"M.Sc(Telecom Engineering), Melbourne University, Australia (2007)",http://pwr.nu.edu.pk/images/faculty/Rahat_Ehsan2.JPG,False
+73,Mr. Maqsood Khan,   maqsood.khan@nu.edu.pk ,Electrical Engineering,147,Assistant Professor,"M.Sc(Electrical Engineering), Blekings Institute of Technology, Sweden (2010)",http://pwr.nu.edu.pk/images/faculty/maqsood.jpg,False
+72,Mr. Muhammad Kamil,   m.kamil@nu.edu.pk ,Electrical Engineering,147,Lecturer,"B.S(Electronic Engineering), Sir Syed University of Engineering and Technology, Karachi, Pakistan (2005)",http://pwr.nu.edu.pk/images/faculty/m_kamil_khan_2.jpg,False
+71,Mr. Syed Mohsin Shah,   mohsin.shah@nu.edu.pk ,Electrical Engineering,149,Lecturer,"B.Sc(Electrical Engineering), UET, Peshawar, Pakistan (2004)",http://pwr.nu.edu.pk/images/faculty/mohsin_shah_2.jpg,False
+70,Mr. Waseem Ullah,   waseemullah@nu.edu.pk ,Electrical Engineering,125,Lab Engineer,"B.E(Electrical Engineering), NWFP UET Peshawar, Pakistan (1999)",http://pwr.nu.edu.pk/images/faculty/Waseemullah2.JPG,False
+69,Mr. Kashif Javed,   kashif.javed@nu.edu.pk ,Electrical Engineering,125,Lab Engineer,"B.S(Telecom Engineering), FAST, Pakistan (2012)",http://pwr.nu.edu.pk/images/faculty/kashif_javed_2.jpg,False
+68,Mr. Muneeb Suhail,   muneeb.sohail@nu.edu.pk ,Electrical Engineering,135,Lab Engineer,"B.S(Electrical Engineering), FAST NUCES, Pakistan (2013)",http://pwr.nu.edu.pk/images/faculty/Muneeb_Suhail2.JPG,False
+67,"Mr. Nouman Shabbir
+",   nauman.shabbir@nu.edu.pk ,Electrical Engineering,126,Lab Engineer,#,http://pwr.nu.edu.pk/images/faculty/Nouman_Shabbir2.JPG,False
+65,"Ms. Anum Rashad
+",   anum.rashad@nu.edu.pk ,Electrical Engineering,150,Lab Engineer,"BS(EE),NUCES,Peshawar,Pakistan(2014)",http://pwr.nu.edu.pk/images/faculty/anum_rashad_2.jpg,False
+88,Dr. Ihsan Ullah,   ihsan.ullah@nu.edu.pk ,Science and Humanities,110,Assistant Professor,"PhD (Finance),  Institute of Management Sciences, 2019",http://pwr.nu.edu.pk/images/faculty/Frame52.png,True
+54,Mr. Osama Sohrab,   osama.sohrab@nu.edu.pk ,Science and Humanities,144,Lecturer,"M.S (Applied Mathematics), Ghulam Ishaq Khan Institute, Topi, Pakistan (2017)",http://pwr.nu.edu.pk/images/faculty/Osama_Sohrab2.JPG,False
+53,Mr. Ikram Ullah,   ikram.ullah@nu.edu.pk ,Science and Humanities,145,Assistant Professor,#,http://pwr.nu.edu.pk/images/faculty/Ikram_Ullah2.JPG,False
+52,Mr. Askar Ali,   askar.ali@nu.edu.pk ,Science and Humanities,145,Lecturer,#,http://pwr.nu.edu.pk/images/faculty/Askar_Ali2.JPG,False
+51,Ms. Noreen Shah,   noreen.shah@nu.edu.pk ,Science and Humanities,150,Lecturer,Ph.D. Scholar (Coursework completed),http://pwr.nu.edu.pk/images/faculty/WhatsAppImage2022-11-21at3.48.44PM-removebg-preview(1).jpg,False
+50,Ms. Abida Farid,   abida.farid@nu.edu.pk  ,Science and Humanities,140,Lecturer,"•	MPhil in English Language & Communication from Institute of management sciences in 2018",http://pwr.nu.edu.pk/images/faculty/Abida_Farid2.JPG,False
