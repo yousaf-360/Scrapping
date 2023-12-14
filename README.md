@@ -17,13 +17,13 @@ Export data to CSV format
 # Output
 The scraped data is stored in fast_nu_faculty_data.csv with the following columns:
 
-Name
-ID
-Name
-Email
-Department
-Extension	
-Designation	
-Highest Education
-image URL
-hec_approved
+* Name
+* ID
+* Name
+* Email
+* Department
+* Extension	
+* Designation	
+* Highest Education
+* image URL
+* hec_approved
